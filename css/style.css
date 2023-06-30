@@ -128,8 +128,10 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
+/* responsive per tablet */
 @media screen and (max-width: 768px) {
-  .steps {
-    background-color: red;
+  /* wakka */
+  .container {
+    width: 100%;
   }
 }
