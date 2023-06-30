@@ -136,6 +136,7 @@ img {
   }
 }
 
+/* responsive cellulare */
 @media screen and (max-width: 480px) {
   .row {
     flex-wrap: wrap;
@@ -180,6 +181,13 @@ img {
   }
 
   .why-us .col-right {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  /* wakka */
+  .container {
     width: 100%;
   }
 }
