@@ -149,6 +149,10 @@ img {
     margin-bottom: 0px;
   }
 
+  .steps {
+    margin-bottom: 0px;
+  }
+
   .steps .col {
     width: 100%;
     margin-bottom: 50px;
@@ -161,5 +165,21 @@ img {
   .text {
     width: 8 0%;
     margin: 0 auto;
+  }
+
+  .why-us {
+    padding-top: 3rem;
+    margin: 0;
+    background-color: black;
+  }
+  .why-us .col-left {
+    width: 100%;
+  }
+  .why-us img {
+    padding-bottom: 3rem;
+  }
+
+  .why-us .col-right {
+    width: 100%;
   }
 }
